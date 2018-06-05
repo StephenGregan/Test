@@ -1,0 +1,10 @@
+C:\Users\Ronan\source\repos\ConsoleAppTestStephenGregan\ConsoleAppTestStephenGregan\bin\Debug\ConsoleAppTestStephenGregan.exe.config
+C:\Users\Ronan\source\repos\ConsoleAppTestStephenGregan\ConsoleAppTestStephenGregan\bin\Debug\ConsoleAppTestStephenGregan.exe
+C:\Users\Ronan\source\repos\ConsoleAppTestStephenGregan\ConsoleAppTestStephenGregan\bin\Debug\ConsoleAppTestStephenGregan.pdb
+C:\Users\Ronan\source\repos\ConsoleAppTestStephenGregan\ConsoleAppTestStephenGregan\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ronan\source\repos\ConsoleAppTestStephenGregan\ConsoleAppTestStephenGregan\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ronan\source\repos\ConsoleAppTestStephenGregan\ConsoleAppTestStephenGregan\obj\Debug\ConsoleAppTestStephenGregan.csprojResolveAssemblyReference.cache
+C:\Users\Ronan\source\repos\ConsoleAppTestStephenGregan\ConsoleAppTestStephenGregan\obj\Debug\ConsoleAppTestStephenGregan.csproj.CoreCompileInputs.cache
+C:\Users\Ronan\source\repos\ConsoleAppTestStephenGregan\ConsoleAppTestStephenGregan\obj\Debug\ConsoleAppTestStephenGregan.csproj.CopyComplete
+C:\Users\Ronan\source\repos\ConsoleAppTestStephenGregan\ConsoleAppTestStephenGregan\obj\Debug\ConsoleAppTestStephenGregan.exe
+C:\Users\Ronan\source\repos\ConsoleAppTestStephenGregan\ConsoleAppTestStephenGregan\obj\Debug\ConsoleAppTestStephenGregan.pdb
