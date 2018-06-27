@@ -45,46 +45,7 @@ namespace ConsoleAppTestStephenGregan
             //// 23/01/2013 7:30:00 p.m.
 
             string newJsonString = @"{
-	""id"": 10197,
-
-    ""versionValue"": 4,
-	""uuid"": ""c17229d8-6be6-4e5f-8799-c0776bc30f2a"",
-	""createdBy"": ""GustavoCunha@translation.ie"",
-	""createdDate"": ""01/06/18 16:44"",
-	""lastModifiedBy"": ""GustavoCunha @translation.ie"",
-	""lastModifiedDate"": ""01/06/18 16:44"",
-	""company.id"": 1,
-	""name"": ""Lycia Rodrigues"",
-	""displayName"": ""Lycia Rodrigues (10197)"",
-	""salutation"": "",
-	""firstName"": ""Lycia"",
-	""middleName"": "",
-	""lastName"": ""Rodrigues"",
-	""nickName"": "",
-	""suffix"": "",
-	""gender.id"": 2,
-	""businessUnit.id"": "",
-	""dateOfBirth"": ""06/01/95"",
-	""contactTypes"": [],
-	""accountingReference"": ""10197"",
-	""referenceId"": ""10197"",
-	""languageMappings"": [{
-		""id"": 17832,
-		""contact.id"": 10197,
-		""language.id"": 137,
-		""language"": {
-			""id"": 137,
-			""label"": ""Portuguese"",
-			""description"": ""Portuguese"",
-			""alternates"": null,
-			""value"": ""pt"",
-			""subtag"": ""pt"",
-			""iso639_3Tag"": ""por"",
-			""type"": ""language"",
-			""alias"": null,
-			""enabled"": true
-
-        }";
+	};
 
             var valueSet = JsonConvert.DeserializeObject<Welcome>(newJsonString);
 
